@@ -3,4 +3,6 @@
     <string name="happy_birthday_dude_text">Happy Birthday, dude</string>
     <string name="from_siddharth_text">From Siddharth.</string>
     <string name="todo_text">TODO</string>
+    <string name="print_text">Print</string>
+    <string name="change_image_text">Change Image</string>
 </resources>
